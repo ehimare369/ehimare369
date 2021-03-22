@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ehiamre Okosun</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate self-taught fullstack developer with a strong love for anything JavaScript.</h3>
+
+- 🔭 I’m currently working on [my portfolio](https://github.com/)
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about anything [here](https://github.com/ehimare369/ehimare369/issues)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehimare369&label=Profile%20views&color=0e75b6&style=flat" alt="ehimare369" /> </p>
 
